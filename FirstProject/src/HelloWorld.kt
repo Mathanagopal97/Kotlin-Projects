@@ -20,7 +20,7 @@ fun main()
 
     //Nullable String, Int, Double, Float
 
-    var str: String? = null;
+    var str: String? = null
     println(str?.length)
     str = "Hello there"
     println(str?.length)
