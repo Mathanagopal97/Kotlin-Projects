@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a824a43-f3a5-4d8e-8665-508073031ade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Conditionals/ConditionalsKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_Lists/ArraysLists.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/HelloWorldKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditionals/Conditionals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditionals/Conditionals.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Conditionals.ConditionalsKt">
+  <component name="RunManager" selected="Kotlin.HelloWorldKt">
+    <configuration name="Arrays_and_Lists.ArraysListsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_Lists.ArraysListsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Conditionals.ConditionalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="VM_PARAMETERS" />
@@ -77,8 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Conditionals.ConditionalsKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
+        <item itemvalue="Kotlin.Arrays_and_Lists.ArraysListsKt" />
+        <item itemvalue="Kotlin.Conditionals.ConditionalsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564928041183</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Conditionals Exercise">
+      <created>1564929022734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564929022734</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +199,7 @@
     <MESSAGE value="Nullable and Elvis operator" />
     <MESSAGE value="If Conditionals" />
     <MESSAGE value="When Conditionals" />
-    <option name="LAST_COMMIT_MESSAGE" value="When Conditionals" />
+    <MESSAGE value="Conditionals Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditionals Exercise" />
   </component>
 </project>
