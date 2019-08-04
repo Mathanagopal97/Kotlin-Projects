@@ -28,7 +28,7 @@ fun main()
     str=null
     var len: Int? = str?.length ?: 0 //Elvis Operator - '?:'
 
-    println(len)
+    print(len)
 
 
 }
