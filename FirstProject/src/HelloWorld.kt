@@ -1,11 +1,11 @@
 fun main()
 {
-    print("Hello World\n")
+    println("Hello World")
 
     var changable = "This can be changed"
     val unchangable = "This cannot be changed"
 
-    print("$changable and $unchangable")
+    println("$changable and $unchangable")
 
 
     var b: Byte = 127
@@ -17,4 +17,18 @@ fun main()
     var l:Long = 1234213432423421424
 
     //toDouble() toLong() toInt() toShort()
+
+    //Nullable String, Int, Double, Float
+
+    var str: String? = null;
+    println(str?.length)
+    str = "Hello there"
+    println(str?.length)
+
+    str=null
+    var len: Int? = str?.length ?: 0 //Elvis Operator - '?:'
+
+    println(len)
+
+
 }
