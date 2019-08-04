@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a824a43-f3a5-4d8e-8665-508073031ade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conditionals/Conditionals.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditionals/Conditionals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditionals/Conditionals.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +25,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Kotlin" />
   </component>
   <component name="RecentsManager">
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564926719640</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="If Conditionals">
+      <created>1564927449568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564927449568</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +166,7 @@
     <MESSAGE value="Val and Var" />
     <MESSAGE value="Datatypes" />
     <MESSAGE value="Nullable and Elvis operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nullable and Elvis operator" />
+    <MESSAGE value="If Conditionals" />
+    <option name="LAST_COMMIT_MESSAGE" value="If Conditionals" />
   </component>
 </project>
