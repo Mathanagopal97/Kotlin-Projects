@@ -1,4 +1,4 @@
-package Conditionals
+package conditionals
 
 import java.util.*
 
