@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a824a43-f3a5-4d8e-8665-508073031ade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loops.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -204,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565163196404</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Loops - For and While">
+      <created>1565164590096</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1565164590096</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +266,7 @@
     <MESSAGE value="Arrays and Lists" />
     <MESSAGE value="Own Function" />
     <MESSAGE value="Rearrange" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rearrange" />
+    <MESSAGE value="Loops - For and While" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops - For and While" />
   </component>
 </project>
