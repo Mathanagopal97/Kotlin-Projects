@@ -1,5 +1,3 @@
-package arrays_and_lists
-
 fun List<String>.getShortWordsTo(shortWords: MutableList<String>, maxLength: Int) {
     this.filterTo(shortWords) { it.length <= maxLength }
     // throwing away the articles
