@@ -1,4 +1,4 @@
-class Book(val bookName:String, val authorName:String, val pubYear:Int, var isBorrowed:Boolean){
+class Book(private val bookName:String, private val authorName:String, private val pubYear:Int, private var isBorrowed:Boolean){
     fun printInformation(){
         print("$bookName $authorName $pubYear ")
         if(isBorrowed) println("Book is borrowed")
