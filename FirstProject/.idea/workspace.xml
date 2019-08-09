@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a824a43-f3a5-4d8e-8665-508073031ade" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565334223344</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Object Oriented Programming: Private Vals and Vars">
+      <created>1565334375236</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1565334375236</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +289,7 @@
     <MESSAGE value="Rearrange" />
     <MESSAGE value="Loops - For and While" />
     <MESSAGE value="Object Oriented Programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object Oriented Programming" />
+    <MESSAGE value="Object Oriented Programming: Private Vals and Vars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Object Oriented Programming: Private Vals and Vars" />
   </component>
 </project>
